@@ -1,0 +1,96 @@
+:::tracker{species="lotad" baseStats="[[40, 30, 30, 40, 50, 30], [60, 50, 50, 60, 70, 50], [80, 70, 70, 90, 100, 70]]"}
+8:
+:::
+
+:::card{theme="neutral"}
+Welcome to my Ludicolo TAM this route will be optimized hopefully for Pokemon Shield
+::: 
+
+Settings are 
+- Text Speed: Fast
+- Battle Effects: Off (v)
+- Battle Style: Set (v)
+- Give Nicknames: Don't Give (vv)
+- Autosave: Off (R)
+- Skip Movies: On (R)
+
+
+First off you want to prepare a lotad lvl 8 with the ability swift swim. and on your Shield progress must be at the first pokemon center after Hop 1.
+Choose Sobble as your starter for mystic water because we ultilize rain/STAB/ Swift swim to out speed and to end fights early yes grooky is faster early but sobble is faster over all because of mystic water
+After beating sobble you will want to catch the first pokemon and then make your way to the center and transfer lotad
+
+Time and date doesnt matter HOW EVER make sure you start your run the same day you start your shield save because of the wikd area which i will get into later
+
+
+
+:::::trainer[Youngster Jake]
+ ::::pokemon[Skwovet]
+  
+   Spam water gun safe fight
+  
+:::: 
+::::: 
+
+:::::trainer[Youngster Benjamin]
+ ::::pokemon[Blipbug]
+  Kinda scary spam water gun
+ :::: 
+ ::::pokemon[Nickit]
+ spam water gun
+ ::::
+::::: 
+
+:::::trainer[Hop]
+ ::::pokemon[Wooloo]
+ Spam water gun
+ ::::
+ ::::pokemon[Rookidee]
+ :::damage[peck]{source="lotad" offensive=false movePower=35 level=10 evs=0 opponentLevel=5 opponentStat=10 special=false stab=true} 
+ :::
+ 
+ Spam water gun
+ 
+ ::::
+ ::::pokemon[Scorbunny]
+ say it with me spam water gun
+ :::: 
+ ::::: 
+
+ so we have access to the wild area time for us to start doing some glitches/exlpoits?
+ here is a check list of what needs to get done
+ 
+ - put switch on airplane mode
+ - so when you start the run itll be day 0 in terms for the watt traders we need 10,500 watts heres how to get infinite watts without online collect all the watts from
+ the dens in the area before Motostoke then on your last den go to battle and play with freinds say local and change the date dont bother with dens with no beam
+ - once you have 10,500 watts we need to buy ice beam, surf and quick balls witch are availble surf day 4 (4th reset) at meet up spot,ice beam day 5 (5th reset) meet up spot 
+ and day 5 Giant seat bridge (eas-west facing one) for quick balls
+ - we need to grab the water stone thats located here https://www.youtube.com/P54Uq0vopBI
+
+ :::::trainer[Team Yell Grunt 1]
+  ::::pokemon[Zigzagoon]
+  water gun only water gun
+  ::::
+ :::::trainer[Team Yell Grunt 2]
+  ::::pokemon[Nickit]
+- water gun
+- teach mega drain over absorb 
+  ::::
+ 
+  :::::trainer[Team Yell Grunt double battle]
+   ::::pokemon[Zigzagoon]
+   water gun 
+   ::::
+   ::::pokemon[Nickit]
+   water gun 
+   ::::
+ ::::: 
+
+ :::::trainer[Trainer Hop]
+  ::::pokemon[Wooloo]
+  water gun
+  ::::
+  ::::pokemon[Rookidee]
+   :::damage[peck]{source="lotad" offensive=flase movePower=35 level=14 evs=0 opponentLevel=12 opponentStat=18 special=false stab=true}
+   ::: 
+   Water gun
+  ::::
