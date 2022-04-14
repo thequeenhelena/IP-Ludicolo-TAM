@@ -90,7 +90,7 @@ Time and date doesnt matter HOW EVER make sure you start your run the same day y
   water gun
   ::::
   ::::pokemon[Rookidee]
-   :::damage[peck]{source="lotad" offensive=flase movePower=35 level=14 evs=0 opponentLevel=12 opponentStat=18 special=false stab=true}
+   :::damage[peck]{source="lotad" offensive=flase movePower=35 level=14 evs=0  evolution=1 opponentLevel=12 opponentStat=18 special=false stab=true}
    ::: 
    Water gun
   ::::
