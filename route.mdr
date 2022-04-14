@@ -201,9 +201,9 @@ buy 4 xspecial and 1 xspeed and xdefense //come back her to add x items
 
  :::::trainer[Gym Leader Nessa]
   ::::pokemon[Goldeen]
-  1 xspecial
-  1 xspeed
-  Giga Drain
+  - 1 xspecial
+  - 1 xspeed
+  - Giga Drain
   ::::
   ::::pokemon[Arrokuda]
   Giga drain
